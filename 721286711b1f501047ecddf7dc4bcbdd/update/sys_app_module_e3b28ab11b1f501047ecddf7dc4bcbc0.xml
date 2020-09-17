@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="testable_v1">2bb28ab11b1f501047ecddf7dc4bcbbc</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>testable_v1s</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_fxi_akdemo1_testable_v1</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_fxi_akdemo1.testable_v1_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin1</sys_created_by>
+        <sys_created_on>2020-09-17 16:34:16</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e3b28ab11b1f501047ecddf7dc4bcbc0</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>testable_v1_custs</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="akdemo1" source="x_fxi_akdemo1">721286711b1f501047ecddf7dc4bcbdd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="akdemo1">721286711b1f501047ecddf7dc4bcbdd</sys_scope>
+        <sys_update_name>sys_app_module_e3b28ab11b1f501047ecddf7dc4bcbc0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-17 17:11:03</sys_updated_on>
+        <timeline_page/>
+        <title>testable_v1_custs</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="akdemo1">721286711b1f501047ecddf7dc4bcbdd</claim_owner_scope>
+        <claim_timestamp>1749d0c81580000001</claim_timestamp>
+        <metadata_update_name>sys_app_module_e3b28ab11b1f501047ecddf7dc4bcbc0</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name>akdemo1</previous_claim_name>
+        <previous_claim_scope>721286711b1f501047ecddf7dc4bcbdd</previous_claim_scope>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-17 17:11:16</sys_created_on>
+        <sys_id>ad3b023553131010c973ddeeff7b1239</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-17 17:11:16</sys_updated_on>
+    </sys_claim>
+</record_update>
